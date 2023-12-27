@@ -11,9 +11,10 @@ import { BrowserRouter as Router, Routes, Route} from "react-router-dom"
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/Food-restaurant-app">
         <Navbar />
         <Routes>
+          <Route path="*" element={<Home/>} />
           <Route path="/" exact element={<Home/>} />
           <Route path="/menu" exact element={<Menu/>} />
           <Route path="/about" exact element={<About/>} />
