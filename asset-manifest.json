@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Food-restaurant-app/static/css/main.a57c45b4.css",
-    "main.js": "/Food-restaurant-app/static/js/main.0a591c6e.js",
+    "main.js": "/Food-restaurant-app/static/js/main.41f129b6.js",
     "static/media/rajasthani.jpg": "/Food-restaurant-app/static/media/rajasthani.ae32883353b0f39a3804.jpg",
     "static/media/logo.png": "/Food-restaurant-app/static/media/logo.019682feddc6460646b2.png",
     "static/media/masala.jpg": "/Food-restaurant-app/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
@@ -14,10 +14,10 @@
     "static/media/dosa.jpg": "/Food-restaurant-app/static/media/dosa.5c938f456ea86779ba13.jpg",
     "index.html": "/Food-restaurant-app/index.html",
     "main.a57c45b4.css.map": "/Food-restaurant-app/static/css/main.a57c45b4.css.map",
-    "main.0a591c6e.js.map": "/Food-restaurant-app/static/js/main.0a591c6e.js.map"
+    "main.41f129b6.js.map": "/Food-restaurant-app/static/js/main.41f129b6.js.map"
   },
   "entrypoints": [
     "static/css/main.a57c45b4.css",
-    "static/js/main.0a591c6e.js"
+    "static/js/main.41f129b6.js"
   ]
 }
